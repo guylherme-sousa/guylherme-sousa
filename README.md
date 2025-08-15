@@ -1,16 +1,12 @@
-## Hi there 👋
+👋🏽 E aí! Tudo bom?
+Sou o guylherme, tenho 15 anos e criei esse espaço pra mostrar um pouco de mim e o que estou aprendendo.
 
-<!--
-**guylherme-sousa/guylherme-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑🏽💻 Um pouco sobre mim
+🕹️ gosto de futebol
+📱 gosto de jogar jogo de terror e animação 
+💻 Estou começando a aprender programação
+🚀 Objetivos
+💻 Aprenda mais sobre tecnologia
+🌱 Compartilhar pensamentos e aprendizados
+💬 Receber feedback construtivo
+  Obrigado por visitar!  
