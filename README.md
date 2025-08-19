@@ -1,7 +1,7 @@
 👋🏽 E aí! Tudo bom?
-Sou o guylherme, tenho 15 anos e criei esse espaço pra mostrar um pouco de mim e o que estou aprendendo.
+Sou o Guylherme, tenho 15 anos e criei esse espaço pra mostrar um pouco de mim e o que estou aprendendo.
 
-🧑🏽💻 Um pouco sobre mim
+🧑🏽 Um pouco sobre mim
 
 🕹️ gosto de futebol
 
