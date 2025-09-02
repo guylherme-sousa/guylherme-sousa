@@ -9,12 +9,4 @@ Sou o Guylherme, tenho 15 anos e criei esse espaço pra mostrar um pouco de mim 
 
 💻 Estou começando a aprender programação
 
-🚀 Objetivos
-
-💻 Aprenda mais sobre tecnologia
-
-🌱 Compartilhar pensamentos e aprendizados
-
-💬 Receber feedback construtivo
-
   Obrigado por visitar!  
