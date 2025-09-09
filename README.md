@@ -1,4 +1,4 @@
-👋🏽 E aí! Tudo bom?
+👋🏽 E aí! td bom?
 Sou o Guylherme, tenho 15 anos e criei esse espaço pra mostrar um pouco de mim e o que estou aprendendo.
 
 🧑🏽 Um pouco sobre mim
